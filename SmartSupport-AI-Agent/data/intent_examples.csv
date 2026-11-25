@@ -1,0 +1,19 @@
+text,intent
+I forgot my password,knowledge
+How do I reset my password,knowledge
+I cannot sign in to my account,knowledge
+The login page is not working,knowledge
+How can I update my email,knowledge
+Where is my order,knowledge
+How can I track an order,knowledge
+What is your return policy,knowledge
+I want to speak to support,create_ticket
+Please create a support ticket,create_ticket
+My account is locked and I need help,create_ticket
+I have a problem with my recent purchase,create_ticket
+Please investigate this issue,create_ticket
+Escalate my complaint,create_ticket
+Check ticket number 1,ticket_status
+What is the status of ticket 2,ticket_status
+Check my support case 3,ticket_status
+Show ticket 4 status,ticket_status

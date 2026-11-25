@@ -1,0 +1,14 @@
+ACCOUNT ACCESS
+If you cannot sign in, check that the email address is correct and that Caps Lock is off. Use the password reset option on the sign-in page. If the account remains inaccessible, contact support and request an account-access ticket.
+
+PASSWORD RESET
+Choose Forgot password on the sign-in page and follow the instructions sent to your registered email address. Never share your password or one-time verification code.
+
+ORDER TRACKING
+Open the Orders page and select the relevant order to view its latest tracking status. If tracking has not updated, create a support ticket with the order reference.
+
+RETURNS
+Return eligibility and time limits depend on the seller's published policy and item category. Review the order's return information. This demo agent cannot approve refunds or returns.
+
+CONTACT SUPPORT
+If self-service steps do not resolve the issue, create a support ticket. Do not share passwords, payment-card numbers, or other sensitive information.
